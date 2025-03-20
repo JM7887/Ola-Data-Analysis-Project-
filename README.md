@@ -3,6 +3,13 @@
 ## Overview
 This project focuses on analyzing ride-booking data from a hypothetical ride-sharing service called Ola. The dataset contains 40,000 rows of booking data, and the goal is to extract meaningful insights using SQL queries and views.
 
+![Ola-Cabs-Logo](https://github.com/user-attachments/assets/6484fe3d-e0e6-4171-98bd-6de73843f202)
+
+
+
+
+
+
 ## Objectives
 - Import and analyze a large dataset using MySQL.
 - Create SQL views for easy access to frequently queried data.
